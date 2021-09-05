@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map for QTRSensors
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+QTRsimple	KEYWORD1
+sensorlinea	KEYWORD2
+calibrar	KEYWORD2
+leerlinea	KEYWORD3
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+leersensor	KEYWORD3
